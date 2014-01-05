@@ -5,6 +5,8 @@
 
   [![build status](https://secure.travis-ci.org/juliangruber/history.png)](http://travis-ci.org/juliangruber/history)
 
+  [![testling badge](https://ci.testling.com/juliangruber/history.png)](https://ci.testling.com/juliangruber/history)
+
 ## Example
 
 ```js
