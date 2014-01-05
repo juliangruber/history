@@ -1,0 +1,32 @@
+{
+  "name": "history",
+  "description": "Browser-like history object",
+  "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/juliangruber/history.git"
+  },
+  "homepage": "https://github.com/juliangruber/history",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "tape": "~2.3.2"
+  },
+  "browser": {
+    "emitter": false,
+    "inherit": false
+  },
+  "keywords": [
+    "browser",
+    "history"
+  ],
+  "author": {
+    "name": "Julian Gruber",
+    "email": "mail@juliangruber.com",
+    "url": "http://juliangruber.com"
+  },
+  "license": "MIT"
+}
