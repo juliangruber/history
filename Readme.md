@@ -3,6 +3,8 @@
 
   Browser-like history object
 
+  [![build status](https://secure.travis-ci.org/juliangruber/history.png)](http://travis-ci.org/juliangruber/history)
+
 ## Example
 
 ```js
